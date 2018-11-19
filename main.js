@@ -14,7 +14,7 @@ class Application extends React.Component {
             <div>
                 <Router history={browserHistory}>
                     <Switch>
-                        <Route exact path="/" component={() => <Layout><Home/></Layout>}/>
+                        <Route exact path="/" component={Home}/>
                         <Route exact path="/policy" component={Policy}/>
                         <Route component={Error404} />
                     </Switch>
