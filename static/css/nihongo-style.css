@@ -1,0 +1,141 @@
+.question-title {
+    padding: 5px !important;
+    text-align: justify !important;
+}
+
+.question-sub {
+    color: red;
+}
+.color-blue {
+    color: blue;
+}
+
+.color-yellow {
+    color: yellow;
+}
+
+.color-red {
+    color: red;
+}
+.color-white {
+    color: white;
+}
+
+.color-green {
+    color: green;
+}
+
+.background-color-green {
+    background-color: green;
+}
+
+.background-color-yellow {
+    background-color: yellow;
+}
+
+.width-30percent {
+    width: 30%;
+}
+
+.width-50percent {
+    width: 50%;
+}
+
+.width-70percent {
+    width: 70%;
+}
+
+.height-150px {
+    width: 150px;
+}
+
+.background-color-brown1 {
+    background-color: #484c52;
+}
+
+.color-greeen1 {
+    color: #5dff81;
+}
+
+.group-title {
+    font-weight: bold;
+    color: black;
+}
+
+.query-area {
+    background-color: #ffffff;
+}
+
+.width-80px {
+    width: 80px;
+}
+
+.question-list-query {
+    height: 100px;
+    margin: 15px;
+    padding: 5px;
+    margin-top: 5px;
+}
+/* Pageing start */
+.pagination {
+    display: inline-block;
+}
+
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.pagination a.active {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+}
+
+.pagination a:hover:not(.active) {background-color: #ddd;}
+
+/* Paging end */
+
+.paging-container {
+    text-align: center;
+}
+
+.table-display {
+    width: 100%;
+}
+
+.small-font {
+    font-size: 12px;
+}
+
+.panel-body-nihongo {
+    padding-top: 0px;
+}
+
+.info-display {
+    width: 125.75px;
+    height: 118px;
+}
+
+.floatLeft {
+    float: left !important;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+.text-align-center {
+    text-align: center !important;
+}
+
+.height-160px {
+    height: 160px;
+}
+
+.margin-bottom-10px {
+    margin-bottom: 10px;
+}
+
